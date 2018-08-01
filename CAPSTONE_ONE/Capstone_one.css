@@ -1,0 +1,57 @@
+h1{
+  padding: 50px;
+  margin: auto;
+  text-align: center;
+  color: white;
+  font-family: 'Signika', sans-serif;
+}
+
+h2{
+  padding: 50px;
+  margin: auto;
+  text-align: center;
+  color: white;
+  font-family: 'Signika', sans-serif;
+}
+
+p{
+  padding: 20px;
+  margin: auto;
+  text-align: center;
+  color: white;
+  font-family: 'Signika', sans-serif;
+}
+
+
+.userinput{
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+label{
+  text-align: center;
+  font-family: 'Signika', sans-serif;
+  font-size: 1.5em;
+}
+
+
+#submit{
+  border-radius: 25px;
+  background: #FF9F1C;
+  height: 80px;
+  width: 150px;
+  font-family: "Montserrat";
+  font-size: 1.2em;
+  margin-bottom: 4px;
+}
+
+body{
+  font-family: 'Signika', sans-serif;
+  color: #FDFFFC;
+  text-align: center;
+  background-color: #011627;
+  border: 60px solid #2EC4B6;
+  border-top: 0px;
+  /*border-bottom: 0px;*/
+  margin: 0px;
+}
